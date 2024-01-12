@@ -267,3 +267,10 @@ Status: Open
 Branch: feature/activity-1736718871972
 
 Description of changes...
+
+## Docs: Add API documentation
+Opened: 2024-01-12T15:37:03Z
+Status: Open
+Branch: feature/activity-1736718878034
+
+Description of changes...
