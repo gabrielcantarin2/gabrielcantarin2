@@ -274,3 +274,10 @@ Status: Open
 Branch: feature/activity-1736718878034
 
 Description of changes...
+
+## Style: Update UI components
+Opened: 2024-01-15T15:02:19Z
+Status: Open
+Branch: feature/activity-1736718880353
+
+Description of changes...
