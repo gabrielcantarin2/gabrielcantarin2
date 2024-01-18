@@ -281,3 +281,10 @@ Status: Open
 Branch: feature/activity-1736718880353
 
 Description of changes...
+
+## Perf: Optimize image loading
+Opened: 2024-01-18T16:43:42Z
+Status: Open
+Branch: feature/activity-1736718883628
+
+Description of changes...
