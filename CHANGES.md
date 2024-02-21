@@ -343,3 +343,10 @@ Status: Open
 Branch: feature/activity-1736718940944
 
 Description of changes...
+
+## Test: Add integration tests
+Opened: 2024-02-21T11:43:51Z
+Status: Open
+Branch: feature/activity-1736718943184
+
+Description of changes...
