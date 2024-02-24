@@ -331,3 +331,10 @@ Branch: feature/activity-1736718932723
 Description of changes...
 Status: Merged (2024-02-26T09:19:51Z)
 Merged by: Gabriel Cantarin
+
+## Test: Add integration tests
+Opened: 2024-02-24T14:06:39Z
+Status: Open
+Branch: feature/activity-1736718947099
+
+Description of changes...
