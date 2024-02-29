@@ -335,3 +335,10 @@ Status: Merged (2024-02-28T11:22:39Z)
 Merged by: Gabriel Cantarin
 Status: Merged (2024-03-02T13:07:07Z)
 Merged by: Gabriel Cantarin
+
+## Security: Fix vulnerability in auth flow
+Opened: 2024-02-29T13:15:33Z
+Status: Open
+Branch: feature/activity-1736718953931
+
+Description of changes...
