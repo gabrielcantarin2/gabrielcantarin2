@@ -337,3 +337,10 @@ Status: Merged (2024-03-02T13:07:07Z)
 Merged by: Gabriel Cantarin
 Status: Merged (2024-03-07T11:58:49Z)
 Merged by: Gabriel Cantarin
+
+## Test: Add integration tests
+Opened: 2024-03-07T15:21:02Z
+Status: Open
+Branch: feature/activity-1736718960101
+
+Description of changes...
