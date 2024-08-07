@@ -2,7 +2,7 @@
 - 👀 I’m codding Web & Apps since 2006
 - 💞️ I’m looking to collaborate on React Native Projects + Expo & Python
 - 📫 You can talk to me on Linkedin
-- ⚡ Fun fact: Yep, I lost my first Github account! Please support help me!
+- ⚡ Fun fact: Yep, I lost my first Github account! Follow me here!
 
 <!---
 gabrielcantarin2/gabrielcantarin2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
