@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on React Native Projects + Expo & Python
 - 📫 You can talk to me on Linkedin
 - ⚡ Fun fact: Yep, I lost my first Github account! Follow me here!
-- I18N: TBD
+- API18N: TBD
 
 <!---
 gabrielcantarin2/gabrielcantarin2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
